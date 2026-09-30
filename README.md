@@ -13,4 +13,3 @@ Technology-oriented operations professional with experience in workplace technol
 Python, Flask, SQLite, HTML/CSS, Project Coordination, IT Support, Remote Collaboration
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/david-ham-079454221/
