@@ -1,4 +1,4 @@
-# Hi, I'm Beluba
+# Hi, I'm David
 
 Junior IT Specialist | IT Support | Operations
 
@@ -13,3 +13,4 @@ Technology-oriented operations professional with experience in workplace technol
 Python, Flask, SQLite, HTML/CSS, Project Coordination, IT Support, Remote Collaboration
 
 ## Contact
+Discord: goatn6769
